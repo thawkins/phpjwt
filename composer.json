@@ -1,7 +1,7 @@
 {
-    "name": "tekintian/phpjwt",
+    "name": "thawkins/phpjwt",
     "description": "PHP JSON Web Tokens (JWT) with Microable.",
-    "homepage": "https://github.com/tekintian/phpjwt",
+    "homepage": "https://github.com/thawkins/phpjwt",
     "keywords": ["php", "jwt", "phpjwt", "macroble"],
     "version": "1.0.0",
     "authors": [
